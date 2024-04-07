@@ -1,0 +1,8 @@
+port: 3049
+debug: True
+posts.file: "data/posts.json"
+posts.mddir: "data/posts"
+projects.file: "data/projects.json"
+localonly: True
+# tls: False
+# domain: "your-domain.dev"

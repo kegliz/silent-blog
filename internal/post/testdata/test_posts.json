@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Example Post 1",
+    "tags": [
+      "example",
+      "post"
+    ],
+    "date": "2020-01-01",
+    "content": "This is the body of example post 1.\n\nIt has multiple lines.",
+    "filename": "testdata/blog_1.md"
+  },
+  {
+    "id": "2",
+    "title": "Example Post 2",
+    "tags": [
+      "example"
+    ],
+    "date": "2020-01-02",
+    "content": "This is the body of example post 2.\n\nIt has multiple lines.",
+    "filename": ""
+  }
+]
