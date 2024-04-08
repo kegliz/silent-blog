@@ -1,6 +1,6 @@
 # Silent Blog
 
-htmx and go based personal blog boilerplate.
+htmx and go based personal blog boilerplate. For motivation and more information, see [this blog post](https://zkegli.kegnet.dev/post/go-gin-htmx-templ-tailwindcss).
 
 - [htmx](https://htmx.org/) for minimal or no js dynamic content
 - [gin](https://github.com/gin-gonic/gin) for server
